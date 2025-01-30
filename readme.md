@@ -1,4 +1,4 @@
-# AI Shopping Assistant
+# AI Retail Assistant
 
 Welcome to the AI Shopping Assistant! This project is a chatbot that helps customers find the best deals in a clothing store. It supports multiple AI models (Ollama, OpenAI, Claude) and is built using Gradio for an interactive interface.
 
@@ -15,7 +15,7 @@ Welcome to the AI Shopping Assistant! This project is a chatbot that helps custo
 
 ## 📂 Project Structure
 ```
-assistant_project/
+AI_RetailAssistant/
 │── src/
 │   │── models/         # AI model implementations
 │   │   │── base.py      # Abstract base class
